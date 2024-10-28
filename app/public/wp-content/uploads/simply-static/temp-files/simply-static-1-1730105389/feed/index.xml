@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mongol-tori</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 26 Oct 2024 09:11:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/10/cropped-428611682_912565274205691_7673991255728740957_n-32x32.jpg</url>
+	<title>Mongol-tori</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Recruitment of Mongol-Tori</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[Ali]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 06:53:36 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[          Are you passionate about space exploration and eager to learn new skills? This is your chance to join BRACU Mongol-Tori, our university rover team! Whether you’re from engineering, business, arts, biology, or any other department, there’s a place for you to shine and contribute starting from our dedicated Control or [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+				<div class="elementor-element elementor-element-6f6f17bd e-flex e-con-boxed e-con e-parent" data-id="6f6f17bd" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5b78a865 elementor-widget elementor-widget-text-editor" data-id="5b78a865" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+<p>Are you passionate about space exploration and eager to learn new skills? This is your chance to join BRACU Mongol-Tori, our university rover team! Whether you’re from engineering, business, arts, biology, or any other department, there’s a place for you to shine and contribute starting from our dedicated Control or Mechanical team all the way to the new PR and Marketing or the Science and Astrobiology team</p>
+
+<p>You’ll get hands-on experience, collaborate with like minded individuals and get a chance to make friendships that will transcend lifetimes. You will also be able to apply your knowledge in real-world scenarios and competitios. Don&#8217;t miss this opportunity to be a part of something extraordinary. Let’s take on Mars together!</p>
+
+<p>If you have any queries send us an email at mongol-tori@bracu.ac.bd (preferable) or send us a message.</p>
+
+<p>Register now and take the first step toward an exciting journey!</p>
+
+<p>Registration link:</p>
+
+<p><a href="https://forms.gle/XP8eSGamrYCotFWS9">https://forms.gle/XP8eSGamrYCotFWS9</a></p>
+
+<p> </p>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
