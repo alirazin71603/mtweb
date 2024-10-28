@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Mongol-tori</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://https://alirazin71603.github.io/mtweb/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://alirazin71603.github.io/mtweb/</link>
 	<description></description>
 	<lastBuildDate>Sat, 26 Oct 2024 09:11:27 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/10/cropped-428611682_912565274205691_7673991255728740957_n-32x32.jpg</url>
+	<url>https://https://alirazin71603.github.io/mtweb/wp-content/uploads/2024/10/cropped-428611682_912565274205691_7673991255728740957_n-32x32.jpg</url>
 	<title>Mongol-tori</title>
-	<link>/</link>
+	<link>https://https://alirazin71603.github.io/mtweb/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Recruitment of Mongol-Tori</title>
-		<link>/hello-world/</link>
-					<comments>/hello-world/#comments</comments>
+		<link>https://https://alirazin71603.github.io/mtweb/hello-world/</link>
+					<comments>https://https://alirazin71603.github.io/mtweb/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Ali]]></dc:creator>
 		<pubDate>Mon, 21 Oct 2024 06:53:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://https://alirazin71603.github.io/mtweb/?p=1</guid>
 
 					<description><![CDATA[          Are you passionate about space exploration and eager to learn new skills? This is your chance to join BRACU Mongol-Tori, our university rover team! Whether you’re from engineering, business, arts, biology, or any other department, there’s a place for you to shine and contribute starting from our dedicated Control or [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
@@ -69,7 +69,7 @@
 				</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://alirazin71603.github.io/mtweb/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
